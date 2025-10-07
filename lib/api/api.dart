@@ -6,5 +6,5 @@ class Api {
   static const imageBaseUrl = "https://image.tmdb.org/t/p/original/";  
   
   // Clave API necesaria para autenticar las peticiones a TMDb
-  static const apiKey = "33b48ae4cc80ba5b4048937ff6930f3d";  
+  static const apiKey = "YOUR-API-KEY";  
 }
